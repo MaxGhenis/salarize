@@ -1,0 +1,2 @@
+# salarize
+Salary estimation
